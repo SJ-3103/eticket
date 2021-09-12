@@ -1,0 +1,12 @@
+{
+    "name": "shubhamjain/eticket",
+    "description": "e-ticket generator",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shubham Jain",
+            "email": "shbhm89300@gmail.com"
+        }
+    ],
+    "require": {}
+}
